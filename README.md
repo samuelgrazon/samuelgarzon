@@ -43,5 +43,5 @@ Combinando mi conocimiento práctico de la operación logística real con herram
 
 ## 📫 ¿Cómo contactarme?
 
-- **LinkedIn:** [linkedin.com/in/samuel-garzon-tellez]()
+- **LinkedIn:** linkedin.com/in/samuel-garzon-tellez
 - **Correo Electrónico:** samuelgarzontellez60@gmail.com
