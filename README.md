@@ -37,7 +37,7 @@ Combinando mi conocimiento práctico de la operación logística real con herram
 ## 📈 Mis Certificaciones Recientes
 
 - **Especialista en Automatización con Python** – *Daxus Latam* (2026)
-- [Añade aquí cualquier otro curso, certificación de Coursera, DataCamp o similar]
+- [Analisis y Desarrollo de Sistemas deInformacion -*Sena*]
 
 ---
 
