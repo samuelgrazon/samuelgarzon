@@ -18,7 +18,7 @@ Combinando mi conocimiento práctico de la operación logística real con herram
 
 ## 🚀 Proyectos Destacados
 
-### 📦 [Sistema Analítico de Distribución Urbana y Última Milla]([ENLACE_A_TU_REPOSITORIO_1](https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200167394%3Adata-analyst/archive))
+### 📦 [Sistema Analítico de Distribución Urbana y Última Milla]([ENLACE_A_TU_REPOSITORIO_1]
 * **Descripción:** Limpieza y modelado de datos de distribución urbana para identificar patrones de fallas en entregas y proponer rutas óptimas.
 * **Tecnologías:** Python, Pandas, Matplotlib, Seaborn.
 * **Impacto:** Simulación de reducción del 15% en costos operativos mediante la clasificación y corrección de variables logísticas en campo.
@@ -28,7 +28,7 @@ Combinando mi conocimiento práctico de la operación logística real con herram
 * **Tecnologías:** SQL, Power BI.
 * **Impacto:** Centralización de métricas críticas (Tasa de Efectividad, On-Time Delivery) para facilitar la toma de decisiones gerenciales.
 
-### 🏙️ [Análisis de Movilidad Urbana y Productividad Económica](ENLACE_A_TU_REPOSITORIO_3)
+### 🏙️ [Análisis de Movilidad Urbana y Productividad Económica](https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200167394%3Adata-analyst/archive)
 * **Descripción:** Cruzamiento de datos abiertos globales de tráfico y congestión vehicular con indicadores de rendimiento económico regional.
 * **Tecnologías:** Python (Pandas), SQL Workbench.
 
