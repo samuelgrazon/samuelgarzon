@@ -28,7 +28,7 @@ Combinando mi conocimiento práctico de la operación logística real con herram
 * **Tecnologías:** SQL, Power BI.
 * **Impacto:** Centralización de métricas críticas (Tasa de Efectividad, On-Time Delivery) para facilitar la toma de decisiones gerenciales.
 
-### 🏙️ [Análisis de Movilidad Urbana y Productividad Económica](https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200167394%3Adata-analyst/archive)
+### 🏙️ [Análisis de Movilidad Urbana y Productividad Económica](ENLACE A TU REPOSITORIO)
 * **Descripción:** Cruzamiento de datos abiertos globales de tráfico y congestión vehicular con indicadores de rendimiento económico regional.
 * **Tecnologías:** Python (Pandas), SQL Workbench.
 
